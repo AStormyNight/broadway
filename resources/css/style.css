@@ -25,7 +25,7 @@
   font-family: helvetica;
   font-weight: bold;
   font-size: 23px;
-}
+  }
 #paragraph{
   font-family: helvetica;
   font-size: 14px;
@@ -41,4 +41,17 @@
 }
 .bottom{
   text-align: center;
+}
+.sameline{
+  color: white;
+  background:gray;
+}
+#date {
+  display: inline;
+  font-size:11px;
+  }
+#footernav {
+  display: inline;
+  text-decoration: underline;
+  font-size: 20px
 }
